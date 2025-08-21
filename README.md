@@ -54,24 +54,6 @@ Key Findings:
 
 ---
 
-## ⚡ How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/spacex-landing-prediction.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebooks/scripts for:
-   - Data collection (`API + Web scraping`)
-   - Data wrangling & SQL analysis
-   - EDA & visualizations
-   - Interactive dashboards (`Plotly Dash`, `Folium`)
-   - Machine learning model training
-
----
-
 ## 📚 Learning Outcomes
 - Hands-on experience with **API data extraction** and **web scraping**  
 - Applied **EDA and SQL** for extracting insights from aerospace data  
